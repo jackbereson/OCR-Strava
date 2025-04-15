@@ -271,8 +271,8 @@ const Home: NextPage = () => {
   return (
     <div className="container">
       <Head>
-        <title>GPT-Scan-Strava</title>
-        <meta name="description" content="GPT Scan Strava Application" />
+        <title>OCR-Strava</title>
+        <meta name="description" content="OCR Strava Screenshot Analysis Application" />
         <link
           rel="icon"
           href="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico"
@@ -280,10 +280,10 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="main">
-        <h1 className="title">Welcome to GPT-Scan-Strava</h1>
+        <h1 className="title">Welcome to OCR-Strava</h1>
 
         <p className="description">
-          Hello! This is the Next.js page for your application
+          A web application for analyzing Strava activity screenshots using OCR technology
         </p>
 
         <div className="card">
